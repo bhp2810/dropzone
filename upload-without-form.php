@@ -19,14 +19,7 @@
    </div>
   </body>
 
-  <script>
-      /*var myDropzone = new Dropzone("div#myId", {
-        url: "upload.php"
-      });*/
-/*      $("div#myId").dropzone({
-        url: "upload.php"
-      });*/
-
+  <script>     
   $(document).ready(function () {
     Dropzone.autoDiscover = false;
     $("#dZUpload").dropzone({
