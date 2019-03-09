@@ -1,4 +1,4 @@
-# dropzone
+# dropzone jQuery file upload 
 
 This repository is meant to provide an example for upload a file using dropzone jQuery.
 
